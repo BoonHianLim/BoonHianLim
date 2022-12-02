@@ -2,7 +2,7 @@
 
 I'm just a normal comp sci student.
 
-The projects I usually work on are usually utility stuff, school project or random game idea.
+The projects I usually work on are usually utility stuff, school projects or random game ideas.
 
 Find me on discord! <a href="https://discord.com/users/448704320188317697">
   <img src = "https://assets-global.website-files.com/6257adef93867e50d84d30e2/6286368c5f5cc306ac2a4672_Jobs%20and%20Career%20Opportunities%20at%20Discord-2%201.svg" width = "20" height = "20" >
