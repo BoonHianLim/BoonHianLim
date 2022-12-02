@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm just a normal comp sci student.
+
+The projects I usually work on are usually utility stuff, school project or random game idea.
+
+Find me on discord!
 <!--
 **BoonHianLim/BoonHianLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
