@@ -7,8 +7,8 @@
   <p><p>
   Feel free to hit me up on any social media if you need me hehe :)
   
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/448704320188317697) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boon-hian-lim-88b565218/) 
+  <a href="https://discord.com/users/448704320188317697"><img height="30" src="https://i.redd.it/6jupfeilyhx71.jpg"></a> 
+  <a href="https://www.linkedin.com/in/boon-hian-lim-88b565218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 </div>
 
 <h2>📊 Git Stats:</h2>
