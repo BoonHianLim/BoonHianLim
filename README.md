@@ -4,6 +4,11 @@
   I'm just a normal comp sci student.
   <p><p>
   The projects I usually work on are usually utility stuff, school projects or random game ideas.
+  <p><p>
+  Feel free to hit me up on any social media if you need me hehe :)
+  
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/448704320188317697) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boon-hian-lim-88b565218/) 
 </div>
 
 
@@ -17,24 +22,22 @@
   srcset="https://github-readme-stats.vercel.app/api?username=BoonHianLim&show_icons=true&theme=default&rank_icon=github"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width = 40%/>
-</picture>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook,html&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook,html&layout=compact&theme=default"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img width = 40% >
+<img />
 </picture>
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=default#gh-light-mode-only"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img />
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bohyanggg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bohyanggg) 
-
-<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
