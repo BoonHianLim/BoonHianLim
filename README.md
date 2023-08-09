@@ -1,6 +1,8 @@
 
 <div align="center">
   <h3>Hi there👋, I'm Boon Hian</h3>
+  <div align="center">
+</div>
   I'm just a normal comp sci student.
   <p><p>
   The projects I usually work on are usually utility stuff, school projects or random game ideas.
@@ -9,6 +11,7 @@
   
   <a href="https://discord.com/users/448704320188317697"><img height="30" src="https://i.redd.it/6jupfeilyhx71.jpg"></a> 
   <a href="https://www.linkedin.com/in/boon-hian-lim-88b565218/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+  <a href="mailto:csbhlim@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408162.png"></a>
 </div>
 
 <h2>📊 Git Stats:</h2>
