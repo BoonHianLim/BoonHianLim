@@ -28,26 +28,91 @@
 </div>
 
 <h2>💻 Tech Stack:</h2>
+<table align="center">
+  <tr align="center">
+    <th>Type</th>
+    <th>Language / Frameworks</th>
+  </tr>
+  
+  <tr align="center">
+    <td>Web Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>Mobile App Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>Software Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>UI Prototyping</td>
+    <td>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/GIMP-grey.svg?style=for-the-badge&logo=gimp&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>Cloud Architecture</td>
+    <td>
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>Database</td>
+    <td>
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>Software Testing</td>
+    <td>
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>Package Management</td>
+    <td>
+      <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+      <img src="https://img.shields.io/badge/-poetry-000000?style=for-the-badge&logo=poetry" />
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>Data Science/AI</td>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    </td>
+  </tr>
+
+</table>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-poetry-000000?style=for-the-badge&logo=poetry" />
 <p><p>
   <picture>
   <source
