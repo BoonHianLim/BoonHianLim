@@ -13,7 +13,7 @@
   <a href="mailto:csbhlim@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408162.png"></a>
 </div>
 
-<h2>📊 Git Stats:</h2>
+<h2>Some Stats For Nerd:</h2>
 <div align="center">
   
   <picture>
@@ -29,7 +29,23 @@
   </picture>
 </div>
 
-<h2>💻 Tech Stack:</h2>
+<div align="center">
+<p><p>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=default#gh-light-mode-only"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img />
+  </picture>
+</div>
+
+<details>
+<summary>💻 <h2>Tech Stack:</h2></summary>
 <table align="center">
   <tr align="center">
     <th>Type</th>
@@ -116,17 +132,4 @@
 
 </table>
 
-<div align="center">
-<p><p>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=dark#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BoonHianLim&hide=Jupyter%20Notebook%2chtml&layout=compact&theme=default#gh-light-mode-only"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img />
-  </picture>
-</div>
+</details>
