@@ -13,7 +13,7 @@
   <a href="mailto:csbhlim@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408162.png"></a>
 </div>
 
-<h2>Some Stats For Nerd:</h2>
+<h2>📊 Some Stats For Nerd:</h2>
 <div align="center">
   
   <picture>
