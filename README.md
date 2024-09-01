@@ -2,7 +2,7 @@
 <div align="center">
   <h3>Hi there👋, I'm Boon Hian</h3>
 
-  I am a year 3 computer science student studying at Nanyang Technological University. Aspiring to build a career as a software engineer. 
+  I am a final year computer science student studying at Nanyang Technological University. Aspiring to build a career as a software engineer. 
   <p><p>
   The projects I usually work on are usually utility stuff, school projects or random game ideas.
   <p><p>
