@@ -2,9 +2,9 @@
 <div align="center">
   <h3>Hi there👋, I'm Boon Hian</h3>
 
-  I am a final year computer science student studying at Nanyang Technological University. Aspiring to build a career as a software engineer. 
+  I am a computer science graduate, previously studied at Nanyang Technological University. Aspiring to build a career as a software architect. 
   <p><p>
-  The projects I usually work on are usually utility stuff, school projects or random game ideas.
+  The projects I usually work on are utility stuff that makes my life easier, and I hope they help you as well! They are usually available as SaaS (or put simply, as websites) or they are open-source and available for clone and modification under MIT license.
   <p><p>
   Feel free to hit me up on any social media if you need me hehe :)
   
