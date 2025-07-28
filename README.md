@@ -6,7 +6,7 @@
   <p><p>
   The projects I usually work on are utility stuff that makes my life easier, and I hope they help you as well! They are usually available as SaaS (or put simply, as websites) or they are open-source and available for clone and modification under MIT license.
   <p><p>
-  Feel free to hit me up on any social media if you need me hehe :)
+  Feel free to hit me up on any social media if you need me hehe :3
   
   <a href="https://discord.com/users/448704320188317697"><img height="30" src="https://i.redd.it/6jupfeilyhx71.jpg"></a> 
   <a href="https://www.linkedin.com/in/boon-hian-lim/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
